@@ -1,4 +1,4 @@
-package com.rajendra.onlineproductsapp.adapter;
+package com.alexis.e_shop.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.rajendra.onlineproductsapp.R;
-import com.rajendra.onlineproductsapp.model.ProductCategory;
+import com.alexis.e_shop.R;
+import com.alexis.e_shop.model.ProductCategory;
 
 import java.util.List;
 

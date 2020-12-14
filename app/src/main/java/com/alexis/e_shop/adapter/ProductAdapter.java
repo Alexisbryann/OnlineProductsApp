@@ -1,11 +1,7 @@
-package com.rajendra.onlineproductsapp.adapter;
+package com.alexis.e_shop.adapter;
 
-import android.app.Activity;
-import android.app.ActivityOptions;
 import android.content.Context;
 import android.content.Intent;
-import android.telecom.Call;
-import android.util.Pair;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,9 +11,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.rajendra.onlineproductsapp.Productdetails;
-import com.rajendra.onlineproductsapp.R;
-import com.rajendra.onlineproductsapp.model.Products;
+import com.alexis.e_shop.Productdetails;
+import com.alexis.e_shop.R;
+import com.alexis.e_shop.model.Products;
 
 import java.util.List;
 

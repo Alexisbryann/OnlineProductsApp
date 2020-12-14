@@ -1,4 +1,4 @@
-package com.rajendra.onlineproductsapp.model;
+package com.alexis.e_shop.model;
 
 public class ProductCategory {
 

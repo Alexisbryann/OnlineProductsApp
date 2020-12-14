@@ -1,4 +1,4 @@
-package com.rajendra.onlineproductsapp;
+package com.alexis.e_shop;
 
 import android.content.Context;
 

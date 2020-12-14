@@ -1,4 +1,4 @@
-package com.rajendra.onlineproductsapp;
+package com.alexis.e_shop;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -6,10 +6,10 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
-import com.rajendra.onlineproductsapp.adapter.ProductAdapter;
-import com.rajendra.onlineproductsapp.adapter.ProductCategoryAdapter;
-import com.rajendra.onlineproductsapp.model.ProductCategory;
-import com.rajendra.onlineproductsapp.model.Products;
+import com.alexis.e_shop.adapter.ProductAdapter;
+import com.alexis.e_shop.adapter.ProductCategoryAdapter;
+import com.alexis.e_shop.model.ProductCategory;
+import com.alexis.e_shop.model.Products;
 
 import java.util.ArrayList;
 import java.util.List;
